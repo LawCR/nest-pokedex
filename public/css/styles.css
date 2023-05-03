@@ -1,0 +1,11 @@
+html, body {
+  padding: 20px;
+  background-color: grey;
+}
+
+h1 {
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  font-size: 24px;
+  margin: 0 0 20px 0;
+}
